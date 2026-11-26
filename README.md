@@ -1,30 +1,30 @@
 # 1,540,000nm of DSSC, Appropriate Off-Grid Solar RAVE
 
-## 三語小誌 · The trilingual zines
+## The trilingual zines
 
-施惟捷（Shih Wei-Chieh / Abao）｜中文・English・日本語｜104 × 147 mm
+Shih Wei-Chieh (Abao) · Chinese, English and Japanese · 104 × 147 mm
 
-### Vol. 1 · 1,540,000nm of DSSC — 84 頁
+### Volume 1: 1,540,000nm of DSSC — 84 pages
 
-從溫室走到工作桌：兩片導電玻璃如何經過染色、封裝與串聯，變成可以量測、可以發聲的太陽能電池？
+The story begins in a greenhouse and moves to the workbench. How do two pieces of conductive glass become a dye-sensitized solar cell (DSSC)? Follow the glass through dyeing, sealing and wiring, then listen to the sound its electricity can produce.
 
-[逐頁閱讀](book/vol-1/pages/) · [下載 DesignCraft 原檔](https://raw.githubusercontent.com/weiweiweiopen/dssc-rave/main/book/vol-1/DSSC-Vol-1.designcraft) · [圖版素材](book/vol-1/source-files/)
+[Browse the pages](book/vol-1/pages/) · [Download the editable DesignCraft file](https://raw.githubusercontent.com/weiweiweiopen/dssc-rave/main/book/vol-1/DSSC-Vol-1.designcraft) · [Browse the source artwork](book/vol-1/source-files/)
 
-![Vol. 1，第 14–15 頁：從被綁架的陽光到第三代太陽能](book/vol-1/previews/014-015.jpg)
-![Vol. 1，第 40–41 頁：圖版對讀](book/vol-1/previews/040-041.jpg)
-![Vol. 1，第 82–83 頁：文獻與作者](book/vol-1/previews/082-083.jpg)
+![Volume 1, pages 14–15: From Kidnapped Sunlight to 3rd-Generation Solar Energy](book/vol-1/previews/014-015.jpg)
+![Volume 1, pages 40–41: two photographic plates shown side by side](book/vol-1/previews/040-041.jpg)
+![Volume 1, pages 82–83: references and artist biography](book/vol-1/previews/082-083.jpg)
 
-### Vol. 2 · 讀回同一片玻璃 — 58 頁
+### Volume 2: Reading the Same Piece of Glass Again — 58 pages
 
-換了光線、重新裝夾，測量儀還認得那片手工玻璃嗎？從工作桌上的電流–電壓曲線，到 Solar Oracle Walkman 的聲音、記憶與代理許可。
+If I move the lamp, or take a handmade cell out of its clamp and put it back, can the reader still recognize it? The current–voltage curves on my workbench lead to a question about the Solar Oracle Walkman: even if an agent recognizes the glass and remembers the music, who gives it permission to play?
 
-[逐頁閱讀](book/vol-2/pages/) · [下載 DesignCraft 原檔](https://raw.githubusercontent.com/weiweiweiopen/dssc-rave/main/book/vol-2/DSSC-Vol-2.designcraft) · [圖版素材](book/vol-2/source-files/)
+[Browse the pages](book/vol-2/pages/) · [Download the editable DesignCraft file](https://raw.githubusercontent.com/weiweiweiopen/dssc-rave/main/book/vol-2/DSSC-Vol-2.designcraft) · [Browse the source artwork](book/vol-2/source-files/)
 
-![Vol. 2，第 10–11 頁：KUBU 暗房與校舍庭院](book/vol-2/previews/010-011.jpg)
-![Vol. 2，第 22–23 頁：充電版讀取器的正面與背面](book/vol-2/previews/022-023.jpg)
-![Vol. 2，第 36–37 頁：博格森倒圓錐與橋上獨白](book/vol-2/previews/036-037.jpg)
+![Volume 2, pages 10–11: the KUBU darkroom and the courtyard of the former school](book/vol-2/previews/010-011.jpg)
+![Volume 2, pages 22–23: front and back of the charging reader circuit board](book/vol-2/previews/022-023.jpg)
+![Volume 2, pages 36–37: Bergson’s inverted cone and the bridge monologue from Waking Life](book/vol-2/previews/036-037.jpg)
 
-兩冊皆可在 DesignCraft 編輯，圖片已內嵌。`pages/` 為按頁碼排列的 240 dpi 閱讀圖（含白封底）；`source-files/` 是可替換的圖版素材。重排前請安裝授權字型，包括 Helvetica Neue、Noto Sans 的繁中與日文字型，以及 Kozuka Gothic Pr6N。各作品與圖版沿用原署名及授權。
+Both DesignCraft files contain the artwork needed to open the book. In each volume, `pages/` contains 240 dpi reading images in page order, including the blank back cover. Use `source-files/` to replace individual images or diagrams. Before editing the layout, install licensed copies of Helvetica Neue, the Traditional Chinese and Japanese Noto Sans families, and Kozuka Gothic Pr6N. The books and illustrations retain their original credits and licenses.
 
 Shih Wei-Chieh (Abao) · dye-sensitized solar glass, off-grid sound and a trilingual zine.
 
