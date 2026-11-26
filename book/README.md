@@ -1,3 +1,0 @@
-# The multilingual zine
-
-Open `Tokyo_DSSC_84p_open_project.designcraft` with DesignCraft 0.20.1 or a recent compatible version. Artwork is embedded so the source opens independently of local paths. `Links/` contains copies of the artwork for explicit replacement or relinking. Use the PDF proof to compare positioning if fonts differ. Install the original font faces from your own licensed sources: Helvetica Neue, Noto Sans T Chinese and Japanese (the older Hant/JP releases with DemiLight), Noto Sans TC Regular/Medium, and Kozuka Gothic Pr6N Regular. Original local font files are not distributed here. The book remains credited to Shih Wei-Chieh and its contributors. The QR is a static QRCode Monkey code pointing to this repository.
